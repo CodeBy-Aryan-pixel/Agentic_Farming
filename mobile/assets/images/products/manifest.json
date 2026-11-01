@@ -1,0 +1,239 @@
+{
+  "generatedAt": "2026-10-25T10:47:54.334Z",
+  "products": [
+    {
+      "id": "ridomil-gold-mz",
+      "query": "Syngenta Ridomil Gold MZ 68 WG packet",
+      "file": "assets/images/products/ridomil-gold-mz.jpg",
+      "width": 900,
+      "height": 473,
+      "sourcePage": "https://www.nexles.com/eu/syngenta-fungicide-ridomil-gold-mz-68-wg-1-kg.html",
+      "sourceImage": "https://www.nexles.com/media/catalog/product/cache/14/small_image/600x315/a85263f59738a0cae75520e4189c504e/s/y/syngenta-fungicide-ridomil-gold-mz-68-wg-1-kg.jpg"
+    },
+    {
+      "id": "amistar-top-325",
+      "query": "Syngenta Amistar Top 325 SC bottle",
+      "file": "assets/images/products/amistar-top-325.jpg",
+      "width": 359,
+      "height": 900,
+      "sourcePage": "https://www.lazada.co.id/products/fungisida-amistar-top-amistartop-325-sc-syngenta-100-ml-i7070696923.html",
+      "sourceImage": "https://filebroker-cdn.lazada.co.id/kf/S2554c5d1810641a1a83fd90be538a079O.jpg"
+    },
+    {
+      "id": "indofil-m45",
+      "query": "Indofil M-45 Mancozeb 75 WP packet",
+      "file": "assets/images/products/indofil-m45.jpg",
+      "width": 1000,
+      "height": 563,
+      "sourcePage": "https://www.indiamart.com/proddetail/indofil-m-45-contact-fungicide-23638914491.html",
+      "sourceImage": "https://5.imimg.com/data5/SELLER/Default/2022/7/ZH/OR/MA/15036727/indofil-m45-fungicide-use-in-hindi-details-information-10-1000x1000.jpg"
+    },
+    {
+      "id": "tilt-250-ec",
+      "query": "Syngenta Tilt 250 EC fungicide bottle",
+      "file": "assets/images/products/tilt-250-ec.jpg",
+      "width": 900,
+      "height": 900,
+      "sourcePage": "https://www.nexles.com/es/syngenta-fungicida-tilt-250-ec.html",
+      "sourceImage": "https://www.nexles.com/media/catalog/product/cache/7/thumbnail/500x/8083c875e83be300356bb052a4e4af68/s/y/syngenta-fungicide-tilt-250-ec_1_.jpg"
+    },
+    {
+      "id": "confidor-200-sl",
+      "query": "Bayer Confidor 200 SL insecticide bottle",
+      "file": "assets/images/products/confidor-200-sl.jpg",
+      "width": 1000,
+      "height": 1000,
+      "sourcePage": "https://www.indiamart.com/proddetail/bayer-confidor-insecticide-23499370030.html",
+      "sourceImage": "https://5.imimg.com/data5/SELLER/Default/2021/10/XK/AR/HV/21577701/bayer-confider-insecticides-1000x1000.jpg"
+    },
+    {
+      "id": "iffco-npk-19-19-19",
+      "query": "IFFCO NPK 19 19 19 water soluble fertilizer packet",
+      "file": "assets/images/products/iffco-npk-19-19-19.jpg",
+      "width": 749,
+      "height": 1000,
+      "sourcePage": "https://www.indiamart.com/proddetail/npk-water-soluble-fertilizer-24346290148.html",
+      "sourceImage": "https://5.imimg.com/data5/SELLER/Default/2021/12/VA/QB/CF/75152960/npk-water-soluble-fertiliser-mixture-1000x1000.jpg"
+    },
+    {
+      "id": "gromor-npk-10-26-26",
+      "query": "Coromandel Gromor NPK 10 26 26 fertilizer bag",
+      "file": "assets/images/products/gromor-npk-10-26-26.jpg",
+      "width": 450,
+      "height": 900,
+      "sourcePage": "https://www.indiamart.com/proddetail/npk-10-26-26-2849013646955.html",
+      "sourceImage": "https://5.imimg.com/data5/ANDROID/Default/2022/12/AM/FS/TF/153510408/product-jpeg-1000x1000.jpg"
+    },
+    {
+      "id": "blitox-50-wp",
+      "query": "Tata Blitox 50 WP copper oxychloride packet",
+      "file": "assets/images/products/blitox-50-wp.jpg",
+      "width": 1000,
+      "height": 1000,
+      "sourcePage": "https://www.indiamart.com/proddetail/tata-blitox-copper-oxychloride-50-wp-fungicide-23069324988.html",
+      "sourceImage": "https://5.imimg.com/data5/SELLER/Default/2021/1/YA/OZ/XS/17540945/tata-blitox-copper-oxychloride-50-wp-fungicide-1000x1000.jpg"
+    },
+    {
+      "id": "bayer-nativo-75-wg",
+      "query": "Bayer Nativo fungicide bottle",
+      "file": "assets/images/products/bayer-nativo-75-wg.jpg",
+      "width": 500,
+      "height": 500,
+      "sourcePage": "https://www.indiamart.com/proddetail/bayer-nativo-systemic-fungicide-26191329662.html",
+      "sourceImage": "https://5.imimg.com/data5/SELLER/Default/2022/7/KG/NN/NP/87257331/bayer-nativo-fungicide-1000x1000.jpg"
+    },
+    {
+      "id": "upl-saaf",
+      "query": "UPL Saaf fungicide packet",
+      "file": "assets/images/products/upl-saaf.jpg",
+      "width": 1000,
+      "height": 1000,
+      "sourcePage": "https://www.indiamart.com/proddetail/250gm-upl-saaf-fungicide-26631928548.html",
+      "sourceImage": "https://5.imimg.com/data5/SELLER/Default/2022/9/LV/FA/CY/43437039/saaf-250g-1--1000x1000.jpg"
+    },
+    {
+      "id": "hindustan-streptocycline",
+      "query": "Streptocycline bacterial plant packet",
+      "file": "assets/images/products/hindustan-streptocycline.jpg",
+      "width": 900,
+      "height": 900,
+      "sourcePage": "https://www.somaniagro.com/products/streptocycline",
+      "sourceImage": "https://www.somaniagro.com/cdn/shop/files/streptocycline-400-500x554-1000x1000_eb0ab579-5cb1-4d52-a3f8-541a64e698ae.png?v=1716964869"
+    },
+    {
+      "id": "fmc-coragen",
+      "query": "FMC Coragen insecticide bottle",
+      "file": "assets/images/products/fmc-coragen.jpg",
+      "width": 1000,
+      "height": 1000,
+      "sourcePage": "https://www.indiamart.com/proddetail/fmc-coragen-insecticides-24813600133.html",
+      "sourceImage": "https://5.imimg.com/data5/SELLER/Default/2022/2/MS/LZ/MJ/58772767/fmc-coragen-insecticides-1000x1000.jpg"
+    },
+    {
+      "id": "syngenta-actara",
+      "query": "Syngenta Actara insecticide packet",
+      "file": "assets/images/products/syngenta-actara.jpg",
+      "width": 740,
+      "height": 1000,
+      "sourcePage": "https://www.indiamart.com/proddetail/syngenta-actara-insecticide-26189786891.html",
+      "sourceImage": "https://5.imimg.com/data5/SELLER/Default/2022/7/PA/SY/OK/98232609/syngenta-actara-insecticide-1000x1000.jpeg"
+    },
+    {
+      "id": "bayer-solomon",
+      "query": "Bayer Solomon insecticide bottle",
+      "file": "assets/images/products/bayer-solomon.jpg",
+      "width": 1000,
+      "height": 1000,
+      "sourcePage": "https://www.indiamart.com/proddetail/bayer-solomon-contact-and-systemic-insecticide-23069321497.html",
+      "sourceImage": "https://5.imimg.com/data5/SELLER/Default/2021/1/NF/TV/JL/17540945/contact-and-systemic-insecticide.jpg"
+    },
+    {
+      "id": "dhanuka-em-1",
+      "query": "Dhanuka EM 1 insecticide",
+      "file": "assets/images/products/dhanuka-em-1.jpg",
+      "width": 900,
+      "height": 747,
+      "sourcePage": "https://www.indiamart.com/proddetail/dhanuka-em-1-insecticide-23695914833.html",
+      "sourceImage": "https://5.imimg.com/data5/SELLER/Default/2025/4/505784328/PR/QJ/YR/84891431/dhanuka-em-1-insecticide-1000x1000.jpg"
+    },
+    {
+      "id": "syngenta-pegasus",
+      "query": "Syngenta Pegasus insecticide",
+      "file": "assets/images/products/syngenta-pegasus.jpg",
+      "width": 639,
+      "height": 900,
+      "sourcePage": "https://www.lazada.com.ph/products/pegasus-500-sc-250ml-diafenthiuron-insecticide-by-syngenta-i3767707631.html",
+      "sourceImage": "https://img.lazcdn.com/g/p/0b7fff3b58c36454ebe6133f15b6b3c0.jpg_720x720q80.jpg"
+    },
+    {
+      "id": "iffco-nano-urea",
+      "query": "IFFCO Nano Urea liquid bottle",
+      "file": "assets/images/products/iffco-nano-urea.jpg",
+      "width": 296,
+      "height": 900,
+      "sourcePage": "https://pricehistoryapp.com/product/iffco-nano-urea-liquid-for-all-plants-and-garden-500-ml-pack-of-1-bottle",
+      "sourceImage": "https://m.media-amazon.com/images/I/41orq47piVL._AC_UF350,350_QL50_.jpg"
+    },
+    {
+      "id": "iffco-nano-dap",
+      "query": "IFFCO Nano DAP liquid bottle",
+      "file": "assets/images/products/iffco-nano-dap.jpg",
+      "width": 900,
+      "height": 900,
+      "sourcePage": "https://highyieldsagro.com/product/iffco-nano-dap/",
+      "sourceImage": "https://highyieldsagro.com/wp-content/uploads/2025/06/IFFCO-Nano-DAP.webp"
+    },
+    {
+      "id": "mahadhan-mkp-00-52-34",
+      "query": "Mahadhan 00 52 34 fertilizer packet",
+      "file": "assets/images/products/mahadhan-mkp-00-52-34.jpg",
+      "width": 720,
+      "height": 900,
+      "sourcePage": "https://www.bighaat.com/products/mahadhan-mkp-00-52-34-imp-fertilizer",
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0722/2059/files/mahadhan-mkp-005234-imp-fertilizer-file-21349.jpg?v=1747136420"
+    },
+    {
+      "id": "yara-liva-tropicote",
+      "query": "YaraLiva Tropicote Calcium Nitrate bag",
+      "file": "assets/images/products/yara-liva-tropicote.jpg",
+      "width": 739,
+      "height": 900,
+      "sourcePage": "https://www.lazada.co.id/products/repack-yaraliva-tropicote-500gr-pupuk-kalsium-nitrat-kemasan-pabrik-calnit-calcium-i7589128258.html",
+      "sourceImage": "https://lzd-img-global.slatic.net/g/p/8d1e3960b6de698651d8493747aa7cb6.jpg_720x720q80.jpg"
+    },
+    {
+      "id": "katyayani-neem-oil",
+      "query": "Katyayani Neem Oil 1500 ppm bottle",
+      "file": "assets/images/products/katyayani-neem-oil.jpg",
+      "width": 720,
+      "height": 900,
+      "sourcePage": "https://www.bighaat.com/products/katyayani-dr-neem-1500-neem-oil-insecticide",
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0722/2059/files/katyayani-dr-neem-1500-neem-oil-insecticide-file-17288.png?v=1737480154&width=3840"
+    },
+    {
+      "id": "t-stanes-bioderma-viride",
+      "query": "T. Stanes BioCure-F Trichoderma viride packet",
+      "file": "assets/images/products/t-stanes-bioderma-viride.jpg",
+      "width": 900,
+      "height": 525,
+      "sourcePage": "https://www.tstanes.com/international-crop-care/disease-management/bio-cure-f",
+      "sourceImage": "https://www.tstanes.com/assets/images/products/international/disease-management/bio_cure_f.webp"
+    },
+    {
+      "id": "iffco-sagarika",
+      "query": "IFFCO Sagarika seaweed liquid bottle",
+      "file": "assets/images/products/iffco-sagarika.jpg",
+      "width": 391,
+      "height": 900,
+      "sourcePage": "https://www.indohobby.com/iffco-sagarica.html",
+      "sourceImage": "https://www.indohobby.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/f/iffco_sagarica.jpg"
+    },
+    {
+      "id": "aries-agromin-max",
+      "query": "Aries Agromin Max micronutrient packet",
+      "file": "assets/images/products/aries-agromin-max.jpg",
+      "width": 900,
+      "height": 900,
+      "sourcePage": "https://www.bighaat.com/products/aries-agromin-max-micronutrient-granules",
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0722/2059/files/aries-agromin-max-micronutrient-granules-file-15232.png?v=1737450929"
+    },
+    {
+      "id": "arka-rakshak-tomato-seeds",
+      "query": "Arka Rakshak tomato hybrid seed packet",
+      "file": "assets/images/products/arka-rakshak-tomato-seeds.jpg",
+      "width": 648,
+      "height": 1000,
+      "sourcePage": "https://dir.indiamart.com/impcat/tomato-seeds.html",
+      "sourceImage": "https://5.imimg.com/data5/HP/BT/GP/SELLER-1486667/arka-rakshak-tomato-seed-1000x1000.jpg"
+    },
+    {
+      "id": "nhrdf-bhima-super-onion-seeds",
+      "query": "Bhima Super onion seed packet",
+      "file": "assets/images/products/nhrdf-bhima-super-onion-seeds.jpg",
+      "width": 900,
+      "height": 720,
+      "sourcePage": "https://www.indiamart.com/proddetail/bhima-super-onion-seed-24369593530.html",
+      "sourceImage": "https://5.imimg.com/data5/SELLER/Default/2021/12/VV/OP/HY/128901760/bhima-super-onion-seed-1000x1000.jpg"
+    }
+  ]
+}
