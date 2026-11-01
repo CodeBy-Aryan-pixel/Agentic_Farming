@@ -305,7 +305,7 @@ export default function CartScreen() {
         return;
       }
 
-      const rzpKeyId = initRes.keyId || process.env.EXPO_PUBLIC_RAZORPAY_KEY_ID || '';
+      const rzpKeyId = process.env.EXPO_PUBLIC_RAZORPAY_KEY_ID || '';
       const rzpAmount = initRes.amount || Math.round(total * 100);
       const rzpOrderId = initRes.razorpayOrderId;
       const internalOrderId = initRes.internalOrderId || `FF-ORD-${Date.now().toString().slice(-6)}`;

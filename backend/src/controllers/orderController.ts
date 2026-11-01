@@ -2,7 +2,6 @@ import { Request, Response } from 'express';
 import crypto from 'crypto';
 import razorpayInstance, {
   RAZORPAY_KEY_ID,
-  RAZORPAY_KEY_SECRET,
 } from '../config/razorpay';
 import Order, {
   generateDefaultTrackingStages,
@@ -114,7 +113,7 @@ export async function verifyPayment(req: Request, res: Response): Promise<Respon
     }
 
     // Verify HMAC-SHA256 signature
-    const secret = RAZORPAY_KEY_SECRET || process.env.RAZORPAY_KEY_SECRET || '';
+    const secret = process.env.RAZORPAY_KEY_SECRET || '';
     let signatureVerified = false;
 
     if (razorpay_signature) {
